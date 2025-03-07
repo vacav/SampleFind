@@ -1,0 +1,3 @@
+C:\Cursor\SampleFind\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Cursor\SampleFind\Project1\Project1\obj\Debug\Project1.csproj.SuggestedBindingRedirects.cache
+C:\Cursor\SampleFind\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
